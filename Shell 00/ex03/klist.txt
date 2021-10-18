@@ -1,0 +1,5 @@
+Credentials cache: API:5831
+        Principal: josgarci@42MADRID.COM
+
+  Issued                Expires               Principal
+Aug  2 16:41:27 2021  Aug  3 02:41:21 2021  krbtgt/42MADRID.COM@42MADRID.COM

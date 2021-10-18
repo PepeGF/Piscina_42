@@ -1,0 +1,5 @@
+regla_1:
+	@echo "wololo"
+
+regla_2: regla_1
+	@echo "Mierda"
